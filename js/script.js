@@ -1,0 +1,1 @@
+document.querySelector(".download-button").addEventListener("click", () => console.log("Descargando MoneyBox 1.0.1..."));
